@@ -11,3 +11,9 @@ Implementing machine learning models for stock market prediction is where Python
 In conclusion, Python is a powerful tool for analyzing and comparing stock market data. By leveraging web scraping techniques with BeautifulSoup, cleaning and preprocessing data, and implementing machine learning models for prediction, investors and analysts can gain valuable insights into stock market trends and make informed decisions. As technology continues to evolve, Python will remain a valuable asset for conducting in-depth stock market comparison analysis.
 
 <img width="902" alt="daily returns" src="https://github.com/sreekruti/stock-prediction/assets/99178296/467c5ffc-1ff9-4df5-a173-12b432b87e80">
+
+<img width="915" alt="image" src="https://github.com/sreekruti/stock-prediction/assets/99178296/83e85c6b-bfe4-4997-a362-ea5357bc151a">
+
+<img width="863" alt="image" src="https://github.com/sreekruti/stock-prediction/assets/99178296/10c1c014-ddce-4908-90ec-b869c2660259">
+
+
